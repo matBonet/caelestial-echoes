@@ -10,4 +10,9 @@ In this cosmic journey, celestial objects, from stars to galaxies, become musica
 
 ## Examples
 
+NGC 1068 - Messier 77
+
 ## Sources
+
+- [MUSE](http://archive.eso.org/scienceportal/home) (ESA)
+- Chandra (NASA)
