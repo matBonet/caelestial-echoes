@@ -1,3 +1,6 @@
 astropy==5.3.4
 jupyter==1.0.0
 matplotlib==3.8.0
+photutils==1.9.0
+scikit-image==0.22.0
+scipy==1.11.3

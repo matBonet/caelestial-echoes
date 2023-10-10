@@ -16,3 +16,5 @@ NGC 1068 - Messier 77
 
 - [MUSE](http://archive.eso.org/scienceportal/home) (ESA)
 - Chandra (NASA)
+
+- [Wavelength to RGB](https://gist.github.com/error454/65d7f392e1acd4a782fc)
