@@ -10,11 +10,15 @@ In this cosmic journey, celestial objects, from stars to galaxies, become musica
 
 ## Examples
 
-NGC 1068 - Messier 77
+Hubble deep field - MUSE
 
 ## Sources
 
 - [MUSE](http://archive.eso.org/scienceportal/home) (ESA)
 - Chandra (NASA)
 
-- [Wavelength to RGB](https://gist.github.com/error454/65d7f392e1acd4a782fc)
+## To-do
+
+- Locate sources over all spectrum layers
+- Match sources into one list, storing value maxima
+- Refactor source identification code into a module
